@@ -1,0 +1,10 @@
+release/form.o
+release/item.o
+release/main.o
+release/mainwindow.o
+release/mapviewwidget.o
+release/spell.o
+release/qrc_res.o
+release/moc_form.o
+release/moc_mainwindow.o
+release/moc_mapviewwidget.o

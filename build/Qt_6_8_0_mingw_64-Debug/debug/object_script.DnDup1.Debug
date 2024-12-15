@@ -1,0 +1,10 @@
+debug/form.o
+debug/item.o
+debug/main.o
+debug/mainwindow.o
+debug/mapviewwidget.o
+debug/spell.o
+debug/qrc_res.o
+debug/moc_form.o
+debug/moc_mainwindow.o
+debug/moc_mapviewwidget.o
